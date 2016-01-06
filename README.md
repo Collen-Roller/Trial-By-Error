@@ -9,6 +9,6 @@ Set of code sniplets and small projects that I've worked on in the past, present
 
 #Accreditation
 
-Written By [Collen Roller][1]
+Written by [Collen Roller][1]
 
 [1]: https://github.com/collen-roller
